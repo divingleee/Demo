@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  flyway:
+    locations: classpath:/db/structure,/db/data
+server:
+  servlet:
+    context-path: /api
+  port: 8888

@@ -1,0 +1,1 @@
+insert into `user` (`name`, `age`, `company`) values ('HELLO', 11, 'gree'), ('WORLD', 12, 'gree'), ('hello world', 12, 'gree');
